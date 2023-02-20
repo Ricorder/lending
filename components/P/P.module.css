@@ -1,0 +1,18 @@
+.p {
+	margin: 12px 0;
+
+	letter-spacing: -0.03em;
+
+	color: white;
+
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 150%;
+}
+
+.blue {
+	margin: auto;
+
+	opacity: 0.64;
+	color: #3838A0;
+}

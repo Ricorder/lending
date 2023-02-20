@@ -1,0 +1,15 @@
+.destination {
+	width: 1280px;
+	height: 895px;
+
+	margin-top: 100px;
+	padding-left: 120px;
+}
+
+.block {
+	display: grid;
+	grid-template-columns: 40% 40%;
+	grid-template-rows: 50% 50%;
+
+	gap: 50px;
+}

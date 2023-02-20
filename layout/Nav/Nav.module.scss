@@ -1,0 +1,54 @@
+.nav {
+	display: grid;
+	grid-template-columns: 30% 40% 30%;
+
+	justify-items: center;
+	align-items: center;
+
+	background-color: #3838A0;
+}
+
+.linkLeft {
+	color: white;
+
+	margin: 0 5px;
+	padding: 10px;
+
+	font-family: 'Inter';
+	font-weight: 800;
+	font-size: 14px;
+	line-height: 100%;
+
+	border: 1px solid #4141A9;
+	border-radius: 25px;
+
+	background-color: #4141A9;
+}
+
+.linkRightBox {
+	display: grid;
+	
+	justify-self: end;
+
+	padding-right: 60px;
+}
+
+.linkRight {
+	color: white;
+
+	padding: 10px;
+
+	font-family: 'Inter';
+	font-weight: 800;
+	font-size: 14px;
+	line-height: 100%;
+	
+	text-align: center;
+	letter-spacing: -0.03em;
+	text-transform: uppercase;
+	
+	border: 1px solid #F59475;
+	border-radius: 25px;
+	
+	background-color: #F59475;
+}

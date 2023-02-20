@@ -1,0 +1,15 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" rx="40" fill="#F59475" fill-opacity="0.08"/>
+<path d="M52.5653 39.9999L27.4349 39.9999" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="54.0435" cy="39.9999" r="2.95652" transform="rotate(90 54.0435 39.9999)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="25.9568" cy="39.9999" r="2.95652" transform="rotate(90 25.9568 39.9999)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M40.0005 27.4348V52.5652" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="40.0003" cy="25.9565" r="2.95652" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="40.0003" cy="54.0434" r="2.95652" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M48.8855 31.1151L31.1156 48.885" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0702" cy="49.9303" r="2.95652" transform="rotate(45 30.0702 49.9303)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="49.9314" cy="30.0698" r="2.95652" transform="rotate(45 49.9314 30.0698)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M48.8848 48.885L31.1149 31.1151" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="49.9305" cy="49.9302" r="2.95652" transform="rotate(135 49.9305 49.9302)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0698" cy="30.0697" r="2.95652" transform="rotate(135 30.0698 30.0697)" fill="white" stroke="#F59475" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

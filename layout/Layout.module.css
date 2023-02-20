@@ -1,0 +1,10 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: 1280px;
+	grid-template-rows: 88px 680px 2612px 1234px;
+
+	/* align-items: center;
+	justify-items: center; */
+
+	justify-content: center;
+}

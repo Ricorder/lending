@@ -1,0 +1,15 @@
+.p {
+	letter-spacing: -0.03em;
+
+	font-size: 48px;
+	font-weight: 500;
+	line-height: 110%;
+}
+
+.blue {
+	color: #3838A0;
+}
+
+.white {
+	color: white;
+}
